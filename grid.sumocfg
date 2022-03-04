@@ -1,14 +1,13 @@
 <configuration>
   <input>
-    <net-file value="grid.net.xml"/>
-    <route-files value="grid.rou.xml"/>
-    <additional-files value="rerouter.add.xml"/>
+    <net-file value="grid.net.xml" />
+    <route-files value="grid.rou.xml" />    
   </input>
   <time>
-    <begin value="0"/>
-    <end value="10000"/>
+    <begin value="0" />
+    <end value="5000" />
   </time>
    <output>
-     <fcd-output value="grid.output.xml"/>
+     <fcd-output value="./out/grid.output9.xml" />
    </output>
 </configuration>
