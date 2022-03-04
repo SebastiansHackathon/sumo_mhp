@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-03-04 15:20:57 by Eclipse SUMO GUI Version 1.12.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\Sebastian\Documents\SCSV\challenges\mhp\test\grid.net.xml"/>
+        <route-files value="C:\Users\Sebastian\Documents\SCSV\challenges\mhp\test\grid.rou.xml"/>
+        <additional-files value="C:\Users\Sebastian\Documents\SCSV\challenges\mhp\test\rerouter.add.xml"/>
+    </input>
+
+    <output>
+        <fcd-output value="C:\Users\Sebastian\Documents\SCSV\challenges\mhp\test\grid.output.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="10000"/>
+    </time>
+
+</configuration>
